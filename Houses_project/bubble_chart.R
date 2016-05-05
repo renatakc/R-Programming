@@ -78,11 +78,6 @@ houses <- data.frame(area = area,
                      crime_rate = crime_rate, 
                      commuting_time = commuting_time)
 
-#plot_ly(houses, x = commuting_time, 
-#       y = price, size = crime_rate, mode = "markers")
-
-#houses <- head(houses)
-
 symbols(x = houses$commuting_time, 
         y = houses$price, 
         circles = houses$crime_rate, 
@@ -92,8 +87,3 @@ text(labels = houses$area,
      x = houses$commuting_time, 
      y = houses$price, 
      cex = 0.5)
-
-#d <- diamonds[sample(nrow(diamonds), 1000), ]
-#plot_ly(d, x = carat, y = price, size = carat, mode = "markers")
-
-
