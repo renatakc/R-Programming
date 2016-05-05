@@ -12,4 +12,3 @@ corpus1 <- tm_map(corpus1, removeNumbers, mc.cores=1)
 corpus1 <- tm_map(corpus1, removeWords, stopwords("english"), mc.preschedule = FALSE)
 
 tdm <- TermDocumentMatrix(corpus1)
-            
