@@ -1,0 +1,11 @@
+1) Create a star network with 5 nodes
+2) Convert the network to an adjacency matrix
+
+3) Find the edge indices in the USairports network that have a distance > 1500
+4) Use the edge indices to create the long haul (>1.500 miles) flights network
+5) How many airports can you get to from Oakland(OAK) with a single top?
+
+
+Degree is how many networks I have
+Clustering is about measuring triangles/triples (transitivity)
+

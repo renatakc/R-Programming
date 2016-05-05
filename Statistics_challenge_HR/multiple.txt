@@ -1,0 +1,6 @@
+F: the number of observed features
+N: the number of rows/houses for which Charlie has noted both the features and price per square foot
+F+1: 
+T: the number of houses for for which Charlie noted features but does not know the price per square foot.
+
+Yi = ß1 + ß2X2i + ß3X3i + ui
