@@ -1,0 +1,191 @@
+Summary
+
+.Net developer, passionate for technology and building solutions. 
+Experienced on solution architecture, integration between applications and heavy processes.
+Also experienced in the DevOps roles, such as continuous delivery and cloud services. 
+Quick brief: 
+Quick/Self-learner 
+Addicted to improve myself 
+Believe in process automation / optimization 
+
+Experience
+
+Software Developer
+ Ve Interactive
+ March 2015 – Present (1 year 6 months)London, United Kingdom
+Currently working as a C# developer, I had two main roles, the first one inside a product team, I was one of the responsible to design and build a high complexity feature from scratch. As the other role, I’m currently part of the team responsible to push the company to the micro-services architecture. Since I joined the last position, I got the role of the DevOps inside the team, responsible to build and maintain the servers for the company and for teams. I was one of the main players during the migration to git, training and helping people to use and understand the tool, as well as the Git Flow process. Also, I was the responsible to im-plement the software Continuous Delivery and to help the database continuous delivery in the team. Apart from the technical work, I’m involved with the in-company trainings, helping people to learn .Net and oth-er technologies, such as Git, CD tools, PowerShell, Azure and so on. 
+Technologies: C#.Net, SQL Server, T-SQL, Git, Continuous Delivery tools, Load Testing, Azure Cloud Services, Azure Service Bus, Storm Real-Time processing and PowerShell.
+
+Software Engineer
+ NCR
+ March 2012 – February 2015 (3 years)São Paulo Area, Brazil
+Transferred from the reseller company (Aloha POS) to the principal company, my roles were, including the ones from the previous company, being one of the responsible for the fiscal homologation of the main software (PAF – Programa Aplicativo Fiscal) and the fully responsible for external and internal integrations. Technologies: C#.Net, SQL Server, SQL-CE and Amazon Web Services.
+
+Analista de TI
+ POS Integrated Solutions
+ August 2011 – March 2012 (8 months)São Paulo Area, Brazil
+Reseller of an American POS company. Where I started with a strong C#.Net development. The company was responsible to adapt and localise the system for the Brazilian market, either for usage and for the Brazilian taxes adaptation. I was part of the only development team, so the team was responsible to handle the all the development steps, from requirements analysis until the deployment and mainte-nance. My tasks were divided between building an embedded system to use in the terminals and being the responsible for the integrations with 3 party tools, such as SAP, Mastersaf and Protheus. 
+Technologies: C#.Net, SQL Server and SQL-CE.
+
+Software Project Manager
+ Wireless Networks Brasil
+ November 2010 – July 2011 (9 months)São Paulo Area, Brazil
+A small company focused on electronic transactions communication. In this role I was the responsible to centralise all the software development needs, contacting external providers and manage the entire flow until the delivery of the project. As well as I was the software developer leader, creating internal and external systems for many purposes. 
+Technologies: PHP, MySQL, Debian Linux, Apache and ShellScript.
+1 project
+
+Analyst
+ Ericsson
+ March 2010 – November 2010 (9 months)São Paulo Area, Brazil
+Working allocated in Telefonica do Brasil, I was part of the team responsible for the mediation system. Mainly using technologies related to HP-UX systems, we team as focused on capturing the data across several servers and formatting it, the performance was a critical point in this process. I was able to start using *nix systems as part of the solutions. 
+Technologies used: C, ShellScript, EMM (proprietary technology), VI, and Linux and Unix systems.
+
+Programmer
+ Accenture
+ June 2008 – March 2010 (1 year 10 months)São Paulo Area, Brazil
+I have worked in 2 different projects. The first project, as an intern, as focused on mainframe technologies. I had the opportunity to learn mainframe’s tools. I worked in this project for 2 months as an intern and 7 more as a full time developer. The second project was to migrate the old client’s external portal to a personalised framework where I was able to start developing my OOP skills. As the systems were strongly coupled to the database, I developed strong skills in building and analysing Transact-SQL stored procedures. 
+Technologies: Cobol, JCL, Endevor, Control-M, DB2, C#.Net and T-SQL.
+2 projects
+3 courses
+
+
+Certifications
+
+ MTA: Software Development Fundamentals
+Microsoft, License F073-9581
+Starting November 2014
+
+ Pearson Test of English Academic
+Pearson, License 276605485
+December 2014 – December 2016
+
+ Developing ASP.NET MVC Web Applications
+Microsoft, License F379-0040
+Starting July 2015
+
+ Programming in HTML5 with JavaScript and CSS3
+Microsoft, License F517-8192
+Starting December 2015
+
+ Microsoft Certified Solution Developer: Web Applications
+Microsoft, License F554-2205
+January 2016 – January 2018
+
+C#
+Linux
+SQL
+.NET
+Operating Systems
+Programming
+Shell Scripting
+Integration
+Microsoft SQL Server
+ITIL
+
+Web Services
+HTML
+JavaScript
+Unix
+UML
+Software Development
+Scrum
+Windows Server
+OOP
+Visual Studio
+Requirements Analysis
+jQuery
+Software Engineering
+T-SQL
+ASP.NET
+SOA
+Web Development
+Unix Shell Scripting
+AJAX
+Visio
+Transact SQL
+Git
+Octopus
+Node.js
+Docker
+COBOL
+ASP.NET MVC
+R
+
+Languages
+English
+Portuguese
+Spanish
+German
+
+Education
+
+Deutsch in Deutschland Institut
+German, Foreign Languages
+2014 – 2014
+
+Goethe Institute
+German, Foreign Languages
+2012 – 2013
+
+FIAP
+Master of Business Administration (M.B.A.), Information Technology Architecture
+2009 – 2010
+
+FATEC
+Tecnológo, Computer Systems Analysis
+2006 – 2008
+Activities and Societies: 
+  Student Union
+
+Cultura Inglesa
+CPE, Foreign Language
+2009 – 2011
+
+Colégio Integração
+Técnico em Informática, Information Technology
+2005 – 2006
+
+Colégio Notre Dame
+High School, High School/Secondary Diplomas and Certificates
+2000 – 2005
+
+Billing System for a Telecom Company
+February 2009 – March 2010
+Part of a team responsible for the Billing system of a global telecommunications company.
+Worked mainly with Cobol and JCL, but also with Endeavor (Revision Control), DB2 and Control-M (Orchestration).
+
+Web site for a Financial Company
+June 2008 – February 2009
+Worked in a team responsible for building the internal website from scratch.
+Leader of the front-end design team.
+Responsible for the homologation and maintenance.
+Technologies: ASP.Net, SQL Transaction, CSS.
+
+Creation of a hardware activation and management system
+January 2011 – June 2011
+Responsible to create a tool for the activation and management of remote hardwares.
+Full stack development, responsible for all the steps, from the analysis of the requirements until the maintenance after the deploy to production.
+The tool was written in PHP, MySQL and Linux daemon processes.
+
+Brazilian fiscal software homologation
+January 2012
+Part of the team responsible for the homologation of the PAF-ECF, a fiscal software in Brazil.
+Worked on site, fixing bugs and adding features ad hoc.
+2 team members
+Software Developer at Ve Interactive
+Analista Programador na BNP Paribas
+
+Mastersaf Integration
+July 2012 – October 2012
+Creation of a personalised integration software responsible to export and manage fiscal information to a fiscal tool called Mastersaf.
+This software is still used for 2 major food chains in Brazil and it was designed to be scalable and reliable.
+Accenture
+Basic and intermediate technical concepts of Cobol programming
+Advanced technical concepts of Cobol programming
+.Net Design Patterns
+POS Integrated Solutions
+Developing applications with WPF
+Developing application with Entity Framework
+Independent Coursework
+HTML5 Advanced Topics
+HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API
